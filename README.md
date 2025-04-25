@@ -21,9 +21,9 @@ A credit card so realistic, your bank might try to charge you annual fees for it
 ---
 ## 🛠️ Installation (For Legal Reasons)
 ```bash
-- git clone https://github.com/heroshi-yamada/flipping-card-design.git
-- cd money-illusion
-- open flipping_card_design.html
+git clone https://github.com/heroshi-yamada/flipping-card-design.git
+cd flipping-card-design
+open flipping_card_design.html
 ```
   
   System Requirements:
@@ -46,7 +46,7 @@ Pick your fake number (Lucky numbers only):
 <h5 class="number">1234 5678 9012 3456</h5>
 ```
 
-Set expiration date (Good until the heat death of the universe):
+Set expiration date (when pigs fly *recommanded):
 
 ```html
 <h5>05/28</h5>
@@ -54,8 +54,32 @@ Set expiration date (Good until the heat death of the universe):
 ---
 ## 🟢🟡🔴 Color Options (Because Beige is Basic AF)
 
-| Part              | CSS Code                      | Color Preview           | Pantone™ Name               | Emotional Effect                  |
-|------------------|-------------------------------|-------------------------|-----------------------------|-----------------------------------|
-| Background       | `#121321`                     | <div style="background-color: #121321; width: 20px; height: 20px; border-radius: 50%; display: inline-block;"></div> | "Midnight Conspiracy"       | "I debug in total darkness"       |
-| Gradient Orbs    | `#9c27b0 → #f3f5f5`           | <div style="background: linear-gradient(90deg, #9c27b0, #f3f5f5); width: 20px; height: 20px; border-radius: 50%; display: inline-block;"></div> | "Unicorn Barf"              | "My code is ~magical~ buggy"      |
-| Card Glass       | `rgba(255, 255, 255, 0.1)`    | <div style="background: rgba(255, 255, 255, 0.1); width: 20px; height: 20px; border-radius: 2px; display: inline-block; border: 1px dashed #fff;"></div> | "Vaporwave Ghost"           | "I’m transparent about my bugs"   |
+| Part             | CSS Code                      | Pantone™ Name               | Emotional Effect                  |
+|------------------|-------------------------------|-----------------------------|-----------------------------------|
+| Background       | `#121321`                     | Midnight Conspiracy         |  I debug in total darkness        |
+| Gradient Orbs    | `#9c27b0 → #f3f5f5`           |  Unicorn Barf               |  My code is ~magical~ buggy       |
+| Card Glass       | `rgba(255, 255, 255, 0.1)`    |  Vaporwave Ghost            |  I’m transparent about my bugs    |
+
+---
+
+## 💼 Professional Uses
+- Impress your cat
+- Win "Best Card" at imaginary poker
+- Flex on CSS newbies
+- Try swiping this card at a store... then run
+  
+---
+
+## 📜 Legally-Binding Fake License
+MIT © heroshi-yamada 
+
+*Technically, the CSS is free but the fake money costs extra*  
+
+---
+---
+
+# Designed during my 379th attempt to buy ramen with expired coupons 🍜
+## *when your UI is richer than you are* (┬┬﹏┬┬)
+
+---
+---
