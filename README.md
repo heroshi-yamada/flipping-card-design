@@ -2,8 +2,9 @@
 
 A credit card so realistic, your bank might try to charge you annual fees for it.  
 
-![Card Flip Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5hYnNqMGRzcDBvMGhvenB2Z29jY3I1MHp2NmxwcTRtdXhhd3djaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zhXV4205dFjE6cx5zZ/giphy.gif)  
-⚠ *Warning: May cause sudden urges to go shopping*
+![Card Flip Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5hYnNqMGRzcDBvMGhvenB2Z29jY3I1MHp2NmxwcTRtdXhhd3djaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zhXV4205dFjE6cx5zZ/giphy.gif)
+
+### ⚠ Warning: May cause sudden urges to go shopping
 
 click to see magic ༼ つ ◕_◕ ༽つ* https://heroshi-yamada.github.io/flipping-card-design/
 ---
