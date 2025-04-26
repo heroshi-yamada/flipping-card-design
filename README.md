@@ -1,4 +1,4 @@
-# 💳 "Will Flip for Money" - 3D Credit Card
+# 💳 Will Flip for Money - 3D Credit Card
 
 A credit card so realistic, your bank might try to charge you annual fees for it.  
 
@@ -6,7 +6,8 @@ A credit card so realistic, your bank might try to charge you annual fees for it
 
 ### ⚠ Warning: May cause sudden urges to go shopping
 
-click to see magic ༼ つ ◕_◕ ༽つ* https://heroshi-yamada.github.io/flipping-card-design/
+click to see magic [(￣▽￣* )ゞ](https://heroshi-yamada.github.io/flipping-card-design/)
+
 ---
 ## 🎩 Magic Tricks Included
 - **3D Flip** - Like a pancake, but more expensive
